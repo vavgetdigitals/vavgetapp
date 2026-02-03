@@ -1,12 +1,15 @@
 {
   "enabled": true,
-  "code": "APP10",
-  "shortText": "Extra 10% off, CODE: APP10",
-  "modalTitle": "Extra 10% off on your first order with our APP",
+  "code": "FAB15",
+  "shortText": "Extra 15% off, CODE: FAB15",
+  "modalTitle": "Extra 15% off with FAB & Dubai First Mastercard Credit Cards",
   "modalTerms": [
-    "Extra 10% on non-discounted items",
-    "Offer is valid when you checkout on our mobile APP only",
-    "Offer is applicable on an order with any value",
-    "Offer can be used one time per user"
-  ]
+    "Extra 15% up to 75 AED off",
+    "Offer is valid when you checkout with your FAB or Dubai First Mastercard Credit Cards",
+    "Offer is applicable on an order value of 200 AED and above",
+    "This offer does not apply on mobile phones below 500 AED & jewelry",
+    "Offer can be used once per month"
+  ],
+  "linkText": "View other eligible products",
+  "linkUrl": ""
 }
